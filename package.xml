@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>ky_imu_driver</name>
+  <version>0.0.1</version>
+  <description>KY-IMU102N-B0  driver
+    https://www.gpsolution.com/product-info/81.html
+  </description>
+
+  <maintainer email="8888888888@duck.com">Shadow</maintainer>
+  <license>Apache 2.0</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>

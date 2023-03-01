@@ -1,0 +1,22 @@
+# KY-IMU102N-B0-DRIVER
+
+<https://www.gpsolution.com/product-info/81.html>
+
+北斗星通 开阳系列IMU
+
+## Supported Platforms
+
+- OS
+  - Ubuntu 18.04
+
+## Installation
+
+This is a package, use it in your catkin workspace.
+
+## License
+
+Apache 2.0
+
+## Thanks
+
+[sensor_imu](https://github.com/LFZ1994/sensor_imu)
